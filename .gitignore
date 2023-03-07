@@ -1,0 +1,13 @@
+node_modules/
+.idea/
+Report/
+allure-results/
+test-results/
+result.json
+results.xml
+state.json
+*.DS_Store
+lib/
+docs/
+allure-report/
+playwright-report/
